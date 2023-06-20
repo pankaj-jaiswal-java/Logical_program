@@ -15,6 +15,7 @@ class Example {
 
 public class Table {
 	public static void main(String[] args) {
+		System.out.println("this is pankaj here");
 		Example e1 = new Example();
 		e1.Main();
 	}
